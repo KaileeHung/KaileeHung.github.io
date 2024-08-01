@@ -1,118 +1,231 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Kailee Hung",
+    "label": "B.S. Computer Science | University of Hawaii at Manoa 2024",
+    "picture": "/img/myphoto2.jpg",
+    "email": "kaileehung@gmail.com",
+    "phone": "",
+    "website": "https://kaileehung.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "kaileehung",
+        "url": "http://github.com/kaileehung"
+      },
+      {
+        "network": "linkedin",
+        "username": "kaileehung",
+        "url": "http://linkedin.com/in/kaileehung"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Video Games",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "level": "",
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "C",
+        "C++",
+        "ReactJS",
+        "Semantic UI",
+        "AngularJS",
+        "Bootstrap",
+        "familiar with Python"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
+      "level": "",
+      "keywords": [
+        "IntelliJ IDEA",
+        "Eclipse",
+        "vi",
+        "Unix command line",
+        "Git/GitHub",
+        "MacOS"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Information and Technology Services",
+      "position": "Web Application Developer",
+      "website": "https://github.com/uhawaii-system-its-ti-iam",
+      "startDate": "2022-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Contribute to the development of UI and API functionality on the UH Groupings project",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Work in an agile project management environment using Java, JavaScript, HTML, and CSS",
+        "Transitioned into role of API Lead in January 2022 which involves management of the API side of the project, along with creating and distributing new tickets on JIRA",
+        "Assist in the creation of new features, optimizing code, fixing bugs, and increasing code coverage",
+        "Contribute to team documentation to aid future members",
+        "Participate in weekly meetings and code reviews",
+        "Mentor and onboard new team members"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024), GPA: 4.0",
+      "studyType": "B.S.",
+      "startDate": "2020-09-24",
+      "endDate": "Present",
+      "gpa": "4.0",
+      "courses": [
+        "ICS 111: Introduction to Computer Science l",
+        "ICS 211: Introduction to Computer Science ll",
+        "ICS 212: Program Structure",
+        "ICS 141: Discrete Math for CS l",
+        "ICS 241: Discrete Math for CS ll",
+        "ICS 314: Software Engineering",
+        "MATH 307: Linear Algebra and Differential Equations",
+        "ICS 311: Algorithms",
+        "ICS 428: Digital Forensics",
+        "ICS 321: Database Systems l",
+        "ICS 464: Human Computer Interaction l"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "institution": "Moanalua High School, Honolulu, HI",
+      "area": "GPA: 4.14",
+      "studyType": "High School Diploma",
+      "startDate": "2016-06-20",
+      "endDate": "2020",
+      "gpa": "4.14",
+      "courses": [
+        "Valedictorian, CTE Honors, Academic Honors",
+        "Concert Orchestra, Honor Orchestra",
+        "Student Association Senator, Book Club"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "CyberPatriot",
+      "website": "https://www.uscyberpatriot.org/",
+      "position": "Team Member",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Part of Moanalua High School's all-girls team in CyberPatriot’s National Youth Cyber Defense Competition",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Competed in the open division, collaborating with a team of eight",
+        "Focused on finding and fixing security vulnerabilities in Windows and Linux operating systems"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Moanalua High School LEO Club",
+      "position": "Club Member",
+      "startDate": "2017",
+      "endDate": "2020",
+      "summary": "Contributed to various community service projects, some of which include:",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Okinawan Festival, Oh Baby! Family Expo, Lions Club Breakfast, Recycling collection"
+      ]
+    },
+    {
+      "organization": "St. Andrew's Schools",
+      "website": "https://www.standrewsschools.org/",
+      "position": "Student Intern",
+      "startDate": "2018",
+      "summary": "Volunteer intern for St. Andrew's summer program",
+      "highlights": [
+        "Supervised and ensured the safety and well-being of participating children",
+        "Assisted in the planning, creation, setup, and execution of meaningful activities for the children",
+        "Collaborated with other interns to help run a successful program"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "Fall 2020 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Provost Achievement Scholarship",
+      "date": "August 2020 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "$40,000 scholarship distributed over 4 years at UH Manoa awarded to high-achieving Hawaii high school graduates and incoming freshman based on academics, leadership, and community service."
+    },
+    {
+      "title": "Community Scholarship Fund",
+      "date": "August 2021",
+      "awarder": "Hawaii Community Foundation",
+      "summary": "$2,625 scholarship for Hawaii residents to aid them in their academic journey."
+    },
+    {
+      "title": "Summer Sophomore Merit Scholarship",
+      "date": "May 2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "$1,200 scholarship awarded to up to 75 UH Manoa students in recognition of their academic excellence."
+    },
+    {
+      "title": "Stronger Together Hawaii Scholarship Fund",
+      "date": "August 2020",
+      "awarder": "Hawaii Community Foundation",
+      "summary": "$3,500 scholarship awarded to selected students who participated in the Next Steps to Your Future program."
+    },
+    {
+      "title": "AP Scholar with Honor",
+      "date": "July 2020",
+      "awarder": "CollegeBoard",
+      "summary": "Granted to students who receive an average score of at least 3.25 on all AP Exams taken, and scores of 3 or higher on four or more of these exams."
+    },
+    {
+      "title": "Silver, Stationary Package",
+      "date": "May 2019",
+      "awarder": "High School Pele Awards",
+      "summary": "The High School Pele Awards honors creative excellence in the art of advertising and design. Second place in the stationary design category. Created a business card and envelope design for the fictional yogurt business, Neko Froyo."
+    },
+    {
+      "title": "3rd Place, Stationary Design",
+      "date": "May 2019",
+      "awarder": "Hawaii High School Graphics Exhibition",
+      "summary": "Third place in the stationary design category, advance division. Created a business card and envelope design for the fictional yogurt business, Neko Froyo."
+    },
+    {
+      "title": "Honorable Mention, Logo Design",
+      "date": "May 2019",
+      "awarder": "Hawaii High School Graphics Exhibition",
+      "summary": "Honorable mention in the logo design category, advance division. Created a logo for the fictional business, The Book Tree."
     }
+
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
