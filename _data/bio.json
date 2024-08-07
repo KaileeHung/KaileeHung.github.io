@@ -53,53 +53,72 @@
         "JavaScript",
         "HTML",
         "CSS",
-        "C",
-        "C++",
-        "ReactJS",
-        "Semantic UI",
-        "AngularJS",
+        "Python",
+        "C/C++",
+        "C#",
+        "MySQL",
+        "x86 Assembly",
+        "React",
         "Bootstrap",
-        "familiar with Python"
+        "Pandas"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "IntelliJ IDEA",
+        "Git/Github",
+        "IntelliJ",
+        "VS Code",
         "Eclipse",
         "vi",
-        "Unix command line",
-        "Git/GitHub",
-        "MacOS"
+        "UNIX",
+        "MacOS",
+        "Unity",
+        "Jupyter",
+        "Anaconda"
       ]
     }
   ],
   "work": [
     {
+      "company": "Hawaii EPSCoR CORE Program",
+      "position": "Research Software Engineer",
+      "website": "https://hawaii.edu/epscor/changehi-opportunity-for-research-experience-core-program/",
+      "startDate": "2023-05-01",
+      "endDate": "2024-06-01",
+      "summary": "Developed a pipeline for classifying and parsing annotations in clinical breast ultrasound (BUS) imaging data",
+      "highlights": [
+        "Leveraged data science tools such as Python and Pandas to work with a dataset of over 100,000 images from The Hawaii & Pacific Islands Mammography Registry (HIPIMR)",
+        "Worked under the supervision of a PhD student for the University of Hawaii Cancer Center and learned about standards BUS imaging",
+        "Released as open-source software to be used as a research tool",
+        "Presented at the 2023 Summer Undergraduate Research Experience (SURE) Symposium"
+      ]
+    },
+    {
       "company": "UH Manoa Information and Technology Services",
-      "position": "Web Application Developer",
+      "position": "Web Developer",
       "website": "https://github.com/uhawaii-system-its-ti-iam",
       "startDate": "2022-06-01",
-      "endDate": "Present",
-      "summary": "Contribute to the development of UI and API functionality on the UH Groupings project",
+      "endDate": "2023-06-01",
+      "summary": "Contributed to the development of UI and API functionality on the UH Groupings project",
       "highlights": [
-        "Work in an agile project management environment using Java, JavaScript, HTML, and CSS",
-        "Transitioned into role of API Lead in January 2022 which involves management of the API side of the project, along with creating and distributing new tickets on JIRA",
-        "Assist in the creation of new features, optimizing code, fixing bugs, and increasing code coverage",
-        "Contribute to team documentation to aid future members",
-        "Participate in weekly meetings and code reviews",
-        "Mentor and onboard new team members"
+        "Worked in an agile project management environment using Java, JavaScript, HTML, and CSS",
+        "Transitioned into role of API Lead in January 2022 which involved management of the API side of the project, along with creating and distributing new tickets on JIRA",
+        "Assisted in the creation of new features, optimizing code, fixing bugs, and increasing code coverage",
+        "Created and expanded on team documentation to aid future members",
+        "Participated in weekly meetings and code reviews",
+        "Mentored and onboarded new team members"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024), GPA: 4.0",
+      "area": "Computer Science, GPA: 4.0, Summa Cum Laude",
       "studyType": "B.S.",
       "startDate": "2020-09-24",
-      "endDate": "Present",
+      "endDate": "2024-05-30",
       "gpa": "4.0",
       "courses": [
         "ICS 111: Introduction to Computer Science l",
@@ -138,7 +157,7 @@
       "endDate": "2020",
       "summary": "Part of Moanalua High School's all-girls team in CyberPatriot’s National Youth Cyber Defense Competition",
       "highlights": [
-        "Competed in the open division, collaborating with a team of eight",
+        "Competed in a team of eight for the open divison, qualifying for the platinum tier",
         "Focused on finding and fixing security vulnerabilities in Windows and Linux operating systems"
       ]
     },
@@ -154,7 +173,7 @@
     },
     {
       "organization": "St. Andrew's Schools",
-      "website": "https://www.standrewsschools.org/",
+      "website": "",
       "position": "Student Intern",
       "startDate": "2018",
       "summary": "Volunteer intern for St. Andrew's summer program",
@@ -168,13 +187,13 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "Fall 2020 - Present",
+      "date": "Fall 2020 - Spring 2024",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
     },
     {
       "title": "Provost Achievement Scholarship",
-      "date": "August 2020 - Present",
+      "date": "August 2020 - Spring 2024",
       "awarder": "University of Hawaii at Manoa",
       "summary": "$40,000 scholarship distributed over 4 years at UH Manoa awarded to high-achieving Hawaii high school graduates and incoming freshman based on academics, leadership, and community service."
     },
