@@ -5,11 +5,10 @@ image: img/blackjack/blackjack-cover.png
 title: Text-Based Blackjack Game
 permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
-date: 2020-07-20
+date: 2020-07
 labels:
   - Python
-  - Replit
-summary: A text-based version of blackjack I made in Replit using Python for ICS 110
+summary: A text-based version of blackjack made for ICS 110
 ---
 
 <img class="ui medium right floated rounded image" src="../img/blackjack/blackjack-image.png">

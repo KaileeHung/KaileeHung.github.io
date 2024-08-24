@@ -5,11 +5,11 @@ image: img/circle/circle-game-cover-image.png
 title: Circle Projectile Game
 permalink: projects/circleprojectile
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-15
+date: 2020-12
 labels:
   - Java
   - Processing
-summary: A simple circle and projectile game I made for ICS 111
+summary: A simple mouse game made for ICS 111
 ---
 
 <div>

@@ -5,11 +5,11 @@ image: img/circle/soot-cover-image.png
 title: Soot
 permalink: projects/soot
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-13
+date: 2024-02
 labels:
   - C#
   - Unity
-summary: A PC-based game developed in 2 weeks as a first ICS 485 project and intro to game design
+summary: An arcade-style game for PC developed in 2 weeks with no external assets as an intro to game design in ICS 485
 ---
 
 <div>

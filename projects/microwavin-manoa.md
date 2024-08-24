@@ -5,18 +5,20 @@ image: img/micro/mmicon.png
 title: Microwavin Manoa
 permalink: projects/microwavin-manoa
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-13
+date: 2022-05
 labels:
   - JavaScript
   - Semantic UI React
   - MongoDB
   - Meteor
-summary: A recipe sharing web application for UH Manoa students, for a final ICS 314 group project
+summary: A recipe sharing web application for UH Manoa students, made for ICS 314
 ---
 
 <img class="img-fluid" src="../img/micro/landing1.png" alt="landing page">
 
 ## Overview
+
+To learn more, check out the **[Microwavin Manoa Project Page](https://microwavin-manoa.github.io/)**
 
 Many college students have limited kitchen resources, limited cooking skills, limited time, limited access to grocery stores, and no access to creative recipes that respect these constraints. As a result, college students spend money to eat out, or eat non-healthy foods at fast food places or through vending machines.
 
@@ -41,8 +43,6 @@ In addition, an admin can add, edit, and delete recipes, ingredients, and vendor
     <div class="col"><img class="img-fluid" src="../img/micro/mmvendor.png" alt="vendor"></div>
   </div>
 </div>
-
-To learn more, check out the [Microwavin Manoa Project Page](https://microwavin-manoa.github.io/)
 
 ## My Contributions
 

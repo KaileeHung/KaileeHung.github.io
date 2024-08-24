@@ -5,12 +5,12 @@ image: img/neko/neko-cover.png
 title: Neko Froyo Food Truck
 permalink: projects/nekofroyo
 # All dates must be YYYY-MM-DD format!
-date: 2019-04-15
+date: 2019-04
 labels:
   - Adobe Illustrator
   - Graphic Design
   - Pele Awards
-summary: High school graphic design project for a fictional food truck business I made in Adobe Illustrator.
+summary: A high school graphic design CTE Honors project for a fictional food truck business
 ---
 
 <div class=container>
