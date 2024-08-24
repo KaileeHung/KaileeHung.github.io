@@ -9,7 +9,6 @@ date: 2020-12-15
 labels:
   - Java
   - Processing
-  - GitHub
 summary: A simple circle and projectile game I made for ICS 111
 ---
 

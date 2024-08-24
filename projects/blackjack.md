@@ -9,7 +9,6 @@ date: 2020-07-20
 labels:
   - Python
   - Replit
-  - GitHub
 summary: A text-based version of blackjack I made in Replit using Python for ICS 110
 ---
 

@@ -10,9 +10,8 @@ labels:
   - JavaScript
   - Semantic UI React
   - MongoDB
-  - IDPM
   - Meteor
-summary: A recipe sharing web application for UH Manoa students, done as group final project for ICS 314
+summary: A recipe sharing web application for UH Manoa students, for a final ICS 314 group project
 ---
 
 <img class="img-fluid" src="../img/micro/landing1.png" alt="landing page">

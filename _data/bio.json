@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kailee Hung",
     "label": "B.S. Computer Science | University of Hawaii at Manoa 2024",
-    "picture": "/img/myphoto2.jpg",
+    "picture": "/img/myphoto.jpg",
     "email": "kaileehung@gmail.com",
     "phone": "",
     "website": "https://kaileehung.github.io",
@@ -90,7 +90,7 @@
       "summary": "Developed a pipeline for classifying and parsing annotations in clinical breast ultrasound (BUS) imaging data",
       "highlights": [
         "Leveraged data science tools such as Python and Pandas to work with a dataset of over 100,000 images from The Hawaii & Pacific Islands Mammography Registry (HIPIMR)",
-        "Worked under the supervision of a PhD student for the University of Hawaii Cancer Center and learned about standards BUS imaging",
+        "Worked under the supervision of a PhD student for the University of Hawaii Cancer Center and learned about BUS imaging standards",
         "Released as open-source software to be used as a research tool",
         "Presented at the 2023 Summer Undergraduate Research Experience (SURE) Symposium"
       ]
@@ -115,7 +115,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science, GPA: 4.0, Summa Cum Laude",
+      "area": "Computer Science, Summa Cum Laude (GPA: 4.0)",
       "studyType": "B.S.",
       "startDate": "2020-09-24",
       "endDate": "2024-05-30",
@@ -142,7 +142,7 @@
     },
     {
       "institution": "Moanalua High School, Honolulu, HI",
-      "area": "GPA: 4.14",
+      "area": "(GPA: 4.14)",
       "studyType": "High School Diploma",
       "startDate": "2016-06-20",
       "endDate": "2020",
@@ -199,49 +199,49 @@
     },
     {
       "title": "Provost Achievement Scholarship",
-      "date": "August 2020 - Spring 2024",
+      "date": "2020 - 2024",
       "awarder": "University of Hawaii at Manoa",
       "summary": "$40,000 scholarship distributed over 4 years at UH Manoa awarded to high-achieving Hawaii high school graduates and incoming freshman based on academics, leadership, and community service."
     },
     {
       "title": "Community Scholarship Fund",
-      "date": "August 2021",
+      "date": "2021 - 2024",
       "awarder": "Hawaii Community Foundation",
-      "summary": "$2,625 scholarship for Hawaii residents to aid them in their academic journey."
+      "summary": "$2,625 scholarship for those who have previously received the Stronger Together Hawaii Scholarship, aggregating gifts from multiple donors"
     },
     {
       "title": "Summer Sophomore Merit Scholarship",
-      "date": "May 2021",
+      "date": "2021",
       "awarder": "University of Hawaii at Manoa",
       "summary": "$1,200 scholarship awarded to up to 75 UH Manoa students in recognition of their academic excellence."
     },
     {
-      "title": "Stronger Together Hawaii Scholarship Fund",
-      "date": "August 2020",
+      "title": "Stronger Together Hawaii Scholarship",
+      "date": "2020",
       "awarder": "Hawaii Community Foundation",
       "summary": "$3,500 scholarship awarded to selected students who participated in the Next Steps to Your Future program."
     },
     {
       "title": "AP Scholar with Honor",
-      "date": "July 2020",
+      "date": "2020",
       "awarder": "CollegeBoard",
       "summary": "Granted to students who receive an average score of at least 3.25 on all AP Exams taken, and scores of 3 or higher on four or more of these exams."
     },
     {
       "title": "Silver, Stationary Package",
-      "date": "May 2019",
+      "date": "2019",
       "awarder": "High School Pele Awards",
       "summary": "The High School Pele Awards honors creative excellence in the art of advertising and design. Second place in the stationary design category. Created a business card and envelope design for the fictional yogurt business, Neko Froyo."
     },
     {
       "title": "3rd Place, Stationary Design",
-      "date": "May 2019",
+      "date": "2019",
       "awarder": "Hawaii High School Graphics Exhibition",
       "summary": "Third place in the stationary design category, advance division. Created a business card and envelope design for the fictional yogurt business, Neko Froyo."
     },
     {
       "title": "Honorable Mention, Logo Design",
-      "date": "May 2019",
+      "date": "2019",
       "awarder": "Hawaii High School Graphics Exhibition",
       "summary": "Honorable mention in the logo design category, advance division. Created a logo for the fictional business, The Book Tree."
     }
