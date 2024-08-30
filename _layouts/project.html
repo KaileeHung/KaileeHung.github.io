@@ -3,6 +3,15 @@ layout: home
 ---
 
 <div class="container py-4">
-  <h1 class="display-4">{{ page.title }}</h1>
+  <h1 class="display-4">{{ page.title }} </h1>
+  <p class="card-text">{{ page.summary }}</p>
+  <p>
+    {% for label in page.labels %}
+    <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }} </span>
+    {% endfor %}
+    <large class="text-muted float-end">{{ page.date }}</large>
+  </p>
+  <hr style="height: 20px" class="hr hr-blurry" />
+  <br>
  {{ content }}
 </div>
